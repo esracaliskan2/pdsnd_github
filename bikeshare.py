@@ -30,7 +30,7 @@ def get_filters():
 
     while city not in CITY_DATA:
 
-        print('Sorry that is not a valid city name. Please try again.')
+        print('Sorry that is not a valid city name. Please input a valid name.')
 >>>>>>> 46b4a929b7cfb013ed730962556de96ac29ff35c
         city = input('Which city would you like to analyze? Chicago, New York or Washington?\n').lower()
 
