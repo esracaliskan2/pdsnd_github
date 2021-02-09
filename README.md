@@ -5,7 +5,7 @@
 _git project v2_
 
 ### Description
-_udacity git_project_
+_udacity git project_
 
 ### Files used
 bikeshare.py, gitignore
