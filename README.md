@@ -2,10 +2,10 @@
 09.02.2021
 
 ### Project Title
-git project v2
+_git project v2_
 
 ### Description
-_udacity git project_
+_udacity git_project_
 
 ### Files used
 bikeshare.py, gitignore
