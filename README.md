@@ -2,7 +2,7 @@
 09.02.2021
 
 ### Project Title
-git project
+git project v2
 
 ### Description
 udacity git project
