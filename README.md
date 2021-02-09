@@ -8,7 +8,7 @@ git project v2
 _udacity git project_
 
 ### Files used
-bikeshare.py
+bikeshare.py, gitignore
 
 ### Credits
 udacity bikeshare
